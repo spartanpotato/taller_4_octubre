@@ -1,6 +1,6 @@
-# texto de ejemplo
+# texto de ejemplo bueno
 
-## subtitulo
+## subtitulo bueno
 
-este es un texto 
-patata
+este es un texto bueno
+patata buena
